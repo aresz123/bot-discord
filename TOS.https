@@ -1,0 +1,15 @@
+Terms of Service — Word Alert Bot
+Effective date: October 7, 2026
+
+Word Alert Bot watches messages in one configured Discord channel for a
+specified word. When it finds a match, it replies with a mention of the
+configured user.
+
+Use the bot only in servers and channels where you have permission to add
+or use it. Do not use the bot to harass, spam, or disrupt other users.
+Use of Discord remains subject to Discord’s Terms of Service and Community
+Guidelines.
+
+The bot is provided as-is and may be changed, paused, or discontinued at
+any time. The bot operator is not responsible for missed alerts, delays,
+or interruptions.
