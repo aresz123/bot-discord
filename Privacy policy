@@ -1,0 +1,18 @@
+Privacy Policy — Word Alert Bot
+Effective date: October 7, 2026
+
+Word Alert Bot reads message content in its configured Discord channel so
+it can check for the configured word. When a match is found, it sends a
+reply that mentions the configured user. The bot ignores messages sent by
+bots.
+
+The bot code does not save message contents or build a message history.
+It processes messages while running to check for a match. Discord handles
+the messages and mentions under Discord’s own privacy policy and terms.
+The computer or hosting provider running the bot may process routine
+technical connection or error logs.
+
+The bot operator does not sell or share message contents. To ask a
+question or request help with data related to the bot, contact
+[your contact]. Since the bot does not store message contents, it has no
+message archive to retrieve or delete.
